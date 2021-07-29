@@ -14,4 +14,4 @@ AMA in discord: Light#3039
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=unity-managers&theme=tokyonight)](https://github.com/light3039/unity-managers)
 
 
-###### nuuu, i'll be your friend >w<
+###### One's demise is always one's own making

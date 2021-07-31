@@ -1,6 +1,6 @@
 # Hello there
 
-I'm an aspirant game developer
+An aspirant game developer
 
 AMA in discord: Light#3039
 

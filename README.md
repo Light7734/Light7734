@@ -13,6 +13,6 @@ AMA in discord: Light#3039
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight)](https://github.com/light3039/light)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight)](https://github.com/Light3039/CSES)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=ue5-benchmarker&theme=tokyonight)](https://github.com/Light3039/ue5-benchmarker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=ue5-systeminformation&theme=tokyonight)](https://github.com/Light3039/ue5-systeminformation)
 
 ###### One's demise is always one's own making

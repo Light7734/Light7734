@@ -1,18 +1,49 @@
-# Hello there
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-An aspirant game developer
+<p align="center">
+  <b>Aspirant game developer</b>
+</p>
 
-AMA in discord: Light#3039
+<p align="center">
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Light3039&theme=tokyonight"/>
+</p>
+
+<img alt="contribution graph" src="https://activity-graph.herokuapp.com/graph?username=Light3039&bg_color=1A1B27&color=70A5FD&line=33A59A&point=c1ceff">
 
 
+<h3 align="center">
+ Active Projects
+</h3>
 
-![stats](https://github-readme-stats.vercel.app/api?username=light3039&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" />
 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" />
+</div>
 
-### Currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight)](https://github.com/light3039/light)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight)](https://github.com/Light3039/CSES)
+<h3 align="center">
+Specs
+</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=ue5-systeminformation&theme=tokyonight)](https://github.com/Light3039/ue5-systeminformation)
+```
+    Case:              CoolerMaster Masterbox K501L ARGB
+    Motherboard:       ROG MAXIMUS XII HERO (WI-FI
+    PCU:               ASUS ROG Strix 750G Gold Full Modular
+    CPU:               Intel(R) Core(TM) i9-10900
+    GPU:               Asus ROG Strix RTX 3060 O12G V2 Gaming GDDR6
+    RAM 2X:            G.SKILL Trident Z 16GB 3200MHz CL14
+    SSD 2X:            ADATA XPG Spectrix S40G RGB M.2 NVMe 512GB
+    HDD 1X:            WesternDigital Blue 2TB 256MB
+    Display:           ASUS TUF Gaming VG27BQ 144Hz 1ms G-Sync HDR10 27Inch
+    Keyboard:          CoolerMaster CK550 V2 w/ TTC Red Mechanical Switches
+    Speakers:          Razer Nommo
+    Mouse:             Bloody AL90
+    Operating System:  Dual boot Windows10/Pop!_OS 
+```
 
-###### One's demise is always one's own making
+<h6 align="center">
+One's demise is always one's own making
+</h6>

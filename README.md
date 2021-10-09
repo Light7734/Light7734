@@ -18,10 +18,10 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" />
+  <a href="https://github.com/light3039/light"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" /> </a>
+  <a href="https://github.com/light3039/CSES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" /> </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" />
+  <a href="https://github.com/light3039/UE5-SystemInformation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
 </div>
 
 <h3 align="center">
@@ -30,7 +30,7 @@ Specs
 
 ```
     Case:              CoolerMaster Masterbox K501L ARGB
-    Motherboard:       ROG MAXIMUS XII HERO (WI-FI
+    Motherboard:       ROG MAXIMUS XII HERO (WI-FI)
     PCU:               ASUS ROG Strix 750G Gold Full Modular
     CPU:               Intel(R) Core(TM) i9-10900
     GPU:               Asus ROG Strix RTX 3060 O12G V2 Gaming GDDR6
@@ -39,8 +39,8 @@ Specs
     HDD 1X:            WesternDigital Blue 2TB 256MB
     Display:           ASUS TUF Gaming VG27BQ 144Hz 1ms G-Sync HDR10 27Inch
     Keyboard:          CoolerMaster CK550 V2 w/ TTC Red Mechanical Switches
-    Speakers:          Razer Nommo
     Mouse:             Bloody AL90
+    Speakers:          Razer Nommo
     Operating System:  Dual boot Windows10/Pop!_OS 
 ```
 

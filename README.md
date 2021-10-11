@@ -18,10 +18,10 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/light3039/light"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" /> </a>
-  <a href="https://github.com/light3039/CSES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" /> </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" /> </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" /> </a>
 
-  <a href="https://github.com/light3039/UE5-SystemInformation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
 </div>
 
 <h3 align="center">

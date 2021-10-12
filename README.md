@@ -1,10 +1,10 @@
 <h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-  <b>Aspirant game developer</b>
-</p>
+<h3 align="center">
+ Stats
+</h3>
 
 <p align="center">
   <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Light3039&theme=tokyonight"/>
@@ -22,8 +22,15 @@
   <a href="https://github.com/light3039/CSES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" /> </a>
   
   
-  <a href="https://github.com/light3039/UE5-SystemInformation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
+<a href="https://github.com/light3039/UE5-SystemInformation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
 </div>
+
+
+<h3 align="center">
+ Bio
+</h3>
+
+<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer, My fav language is C++, you can add me on discord "Light#3039" and chat with me :3 </p>
 
 <h3 align="center">
 Specs

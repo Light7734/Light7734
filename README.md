@@ -17,6 +17,8 @@
  Active Projects
 </h3>
 
+Note: I've started working with a game-dev team, so for the time being I'll only be learning & developing UE5 related projects... 
+
 <div align="center">
   <a href="https://github.com/light3039/light"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" /> </a>
   <a href="https://github.com/light3039/Vulkan-Renderer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=Vulkan-Renderer&theme=tokyonight" /> </a>
@@ -27,13 +29,13 @@
 <a href="https://github.com/light3039/UE5-SystemInformation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
 <a href="https://github.com/light3039/UE5-Sandbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-Sandbox&theme=tokyonight" /> </a>
 </div>
-
+  
 
 <h3 align="center">
  Bio
 </h3>
 
-<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer, My fav language is C++, you can add me on discord "Light#3039" and chat with me :3 </p>
+<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills on art/music but I'm more focused on programming right now, you can add me on discord "Light#3039" and chat with me ;3 </p>
 
 <h3 align="center">
 Specs

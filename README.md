@@ -58,5 +58,5 @@ Specs
 ```
 
 <h6 align="center">
-One's demise is always one's own making
+Those without purpose are in pursuit of pleasure
 </h6>

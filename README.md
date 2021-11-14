@@ -17,8 +17,6 @@
  Active Projects
 </h3>
 
-Note: I've started working with a game-dev team, so for the time being I'll only be learning & developing UE5 related projects... 
-
 <div align="center">
   <a href="https://github.com/light3039/light"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" /> </a>
   <a href="https://github.com/light3039/Vulkan-Renderer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=Vulkan-Renderer&theme=tokyonight" /> </a>

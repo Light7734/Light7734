@@ -2,20 +2,15 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">
-Stats
-</h3>
+<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills on art/music but I'm more focused on programming right now, you can add me on discord "Light#3039" and chat with me ;3 </p>
 
 <p align="center">
 <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Light3039&theme=tokyonight"/>
 </p>
 
-<img alt="contribution graph" src="https://activity-graph.herokuapp.com/graph?username=Light3039&bg_color=1A1B27&color=70A5FD&line=33A59A&point=c1ceff">
-
-
-<h3 align="center">
+<h2 align="center">
 Active Projects
-</h3>
+</h2>
 
 <div align="center">
 <p>GameEngine & Rendering</p>
@@ -41,15 +36,11 @@ Active Projects
 <a href="https://github.com/light3039/.files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=.files&theme=tokyonight" /> </a>
 </div>
 
-<h3 align="center">
-Bio
-</h3>
+<h6 align="center"> ughhh- I'll finish them all, one day...</h6>
 
-<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills on art/music but I'm more focused on programming right now, you can add me on discord "Light#3039" and chat with me ;3 </p>
-
-<h3 align="center">
+<h2 align="center">
 Specs
-</h3>
+</h2>
 
 ```
 Case:              CoolerMaster Masterbox K501L ARGB
@@ -68,6 +59,12 @@ Operating System:  Dual boot Windows10/Pop!_OS
 
 Laptop:            Lenovo Legion-Y512 w/ Arch Linux
 ```
+
+<h2 align="center">
+Resources
+</h2>
+
+<div align="center">
 
 <h6 align="center">
 Those without purpose are in pursuit of pleasure

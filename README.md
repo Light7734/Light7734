@@ -14,31 +14,25 @@ Active Projects
 
 <div align="center">
 <p>GameEngine & Rendering</p>
-
 <a href="https://github.com/light3039/light"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=light&theme=tokyonight" /> </a>
 <a href="https://github.com/light3039/Vulkan-Renderer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=Vulkan-Renderer&theme=tokyonight" /> </a>
 
 <p>General C++</p>
-
-
 <a href="https://github.com/light3039/CSES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" /> </a>
 
 
 <p>UnrealEngine 5</p>
-
 <a href="https://github.com/light3039/UE5-SystemInformation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
 <a href="https://github.com/light3039/UE5-Sandbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-Sandbox&theme=tokyonight" /> </a>
 
 
 <p>GNU/Linux</p>
-
-
 <a href="https://github.com/light3039/.files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=.files&theme=tokyonight" /> </a>
 </div>
 
 <h6 align="center"> ughhh- I'll finish them all, one day...</h6>
 
-<h2 align="center">
+<h2 align="left">
 Specs
 </h2>
 
@@ -59,12 +53,19 @@ Operating System:  Dual boot Windows10/Pop!_OS
 
 Laptop:            Lenovo Legion-Y512 w/ Arch Linux
 ```
+<h6 align="center">
+  Let there be ARGB!
+</h6>
 
-<h2 align="center">
+<h2 align="left">
 Resources
 </h2>
 
-<div align="center">
+<div align="left">
+  <p> C++/OpenGL/GameEngine -> <a href="https://www.youtube.com/c/TheChernoProject">The Cherno</a>, He's the best C++ teacher out there, a god amongst men. </p>
+  <p> C++/DirectX -> <a href="https://www.youtube.com/c/ChiliTomatoNoodle">ChilliTomatoNoodle</a>, A funny guy, teaches C++ & DirectX. </p>
+  <p> OpenGL ->  <a href="https://www.learnopengl.com"> Joey de Vriez </a>, I was introduced to graphics programming with this tutorial, the greatest there is to get your feet wet. </p>
+</div>
 
 <h6 align="center">
 Those without purpose are in pursuit of pleasure

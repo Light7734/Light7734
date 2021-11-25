@@ -68,5 +68,5 @@ Resources
 </div>
 
 <h6 align="center">
-Those without purpose are in pursuit of pleasure
+  Godspeed!
 </h6>

@@ -62,12 +62,13 @@ Resources
 </h2>
 
 <div align="left">
-  <p> C++/OpenGL/GameEngine -> <a href="https://www.youtube.com/c/TheChernoProject">The Cherno</a> </p>
-  <p> C++/DirectX -> <a href="https://www.youtube.com/c/ChiliTomatoNoodle">ChilliTomatoNoodle</a> </p>
+  <p> C++ -> <a href="https://www.youtube.com/c/TheChernoProject">The Cherno</a> </p>
+  <p> DirectX -> <a href="https://www.youtube.com/c/ChiliTomatoNoodle">ChilliTomatoNoodle</a> </p>
   <p> OpenGL ->  <a href="https://www.learnopengl.com"> learnopengl.com </a></p>
   <p> Vulkan -> <a href="https://www.youtube.com/c/BrendanGalea"> BrendanGalea </a> </p>
   <p> Vulkan -> <a href="https://vulkan-tutorial.com/"> vulkan-tutorial.com </a></p>
-  <p> Rendering -> The realtime rendering 4th edition book </p>
+  <p> UnrealEngine -> <a href="https://learn.unrealengine.com/"> learn.unrealengine.com </a><p>
+  <p> Rendering -> Real-time rendering by Tomas Akenine-möller </p>
 </div>
 
 <h6 align="center">

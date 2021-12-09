@@ -32,7 +32,7 @@ Active Projects
 
 <h6 align="center"> ughhh- I'll finish them all, one day...</h6>
 
-<h2 align="left">
+<h2 align="center">
 Specs
 </h2>
 
@@ -57,20 +57,47 @@ Laptop:            Lenovo Legion-Y512 w/ Arch Linux
   Let there be ARGB!
 </h6>
 
-<h2 align="left">
+<h2 align="center">
 Resources
 </h2>
 
 <div align="left">
-  <p> C++ -> <a href="https://www.youtube.com/c/TheChernoProject">The Cherno</a> </p>
-  <p> DirectX -> <a href="https://www.youtube.com/c/ChiliTomatoNoodle">ChilliTomatoNoodle</a> </p>
-  <p> OpenGL ->  <a href="https://www.learnopengl.com"> learnopengl.com </a></p>
+  <p> C++ / GameEngine / OpenGL -> <a href="https://www.youtube.com/c/TheChernoProject">The Cherno</a> </p>
+  <p> C++ -> <a href="https://cses.fi/book/book.pdf"> Competitive Programmer’s Handbook  </a></p>
+
   <p> Vulkan -> <a href="https://www.youtube.com/c/BrendanGalea"> BrendanGalea </a> </p>
   <p> Vulkan -> <a href="https://vulkan-tutorial.com/"> vulkan-tutorial.com </a></p>
+  <p> Vulkan -> <a href="https://github.com/KhronosGroup/Vulkan-Guide">  Vulkan guide </a> </p>
+  <p> Vulkan -> <a href="https://www.khronos.org/registry/vulkan/specs/1.2/html/index.html"> Vulkan docs </a> </p>
+
+  
+  <p> DirectX -> <a href="https://www.youtube.com/c/ChiliTomatoNoodle">ChilliTomatoNoodle</a> </p>
+  <p> DirectX -> <a href="http://www.directxtutorial.com/"> directxtutorial.com </a></p>
+
+  
+  <p> OpenGL ->  <a href="https://www.learnopengl.com"> learnopengl.com </a></p>
+  <p> OpenGL -> <a href="https://docs.gl/"> OpenGL docs </a></p>
+
+  
   <p> UnrealEngine -> <a href="https://learn.unrealengine.com/"> learn.unrealengine.com </a><p>
-  <p> Rendering -> Real-time rendering by Tomas Akenine-möller </p>
+ 
+  
+  <p> Rendering -> Real-time rendering book by Tomas Akenine-möller </p>
+
+  
+  <p> Memory -> <a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf"> What Every Programmer Should Know About Memory </a> </p>
+  
+  <br/> <p> If you know of a good resouce related to UnrealEngine or willing to help me w/ vc, contact me :3 </p>
 </div>
 
 <h6 align="center">
   Godspeed!
 </h6>
+
+<h2 align="center">
+  Contact
+</h2>
+<div align="ceenter">
+  <p> Discord: Light#3039 </p>
+  <p> Email: I don't check email lol </p>
+</div>

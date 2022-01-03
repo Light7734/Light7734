@@ -20,11 +20,8 @@ Active Projects
 <p>General C++</p>
 <a href="https://github.com/light3039/CSES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=CSES&theme=tokyonight" /> </a>
 
-
 <p>UnrealEngine 5</p>
 <a href="https://github.com/light3039/UE5-SystemInformation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-SystemInformation&theme=tokyonight" /> </a>
-<a href="https://github.com/light3039/UE5-Sandbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=UE5-Sandbox&theme=tokyonight" /> </a>
-
 
 <p>GNU/Linux</p>
 <a href="https://github.com/light3039/.files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=.files&theme=tokyonight" /> </a>
@@ -70,22 +67,19 @@ Resources
   <p> Vulkan -> <a href="https://github.com/KhronosGroup/Vulkan-Guide">  Vulkan guide </a> </p>
   <p> Vulkan -> <a href="https://www.khronos.org/registry/vulkan/specs/1.2/html/index.html"> Vulkan docs </a> </p>
 
-  
   <p> DirectX -> <a href="https://www.youtube.com/c/ChiliTomatoNoodle">ChilliTomatoNoodle</a> </p>
   <p> DirectX -> <a href="http://www.directxtutorial.com/"> directxtutorial.com </a></p>
-
   
   <p> OpenGL ->  <a href="https://www.learnopengl.com"> learnopengl.com </a></p>
   <p> OpenGL -> <a href="https://docs.gl/"> OpenGL docs </a></p>
 
-  
-  <p> UnrealEngine -> <a href="https://learn.unrealengine.com/"> learn.unrealengine.com </a><p>
- 
+  <p> UnrealEngine -> <a href="https://learn.unrealengine.com/"> learn.unrealengine.com </a><p> 
   
   <p> Rendering -> Real-time rendering book by Tomas Akenine-möller </p>
 
-  
-  <p> Memory -> <a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf"> What Every Programmer Should Know About Memory </a> </p>
+  <p> Memory -> <a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf"> What Every Programmer Should Know About Memory by Ulrich Drepper </a> </p>
+
+  <p> Linux -> Linux Command Line and Shell Scripting BIBLE by Richard Blum
   
   <br/> <p> If you know of a good resouce related to UnrealEngine or willing to help me w/ vc, contact me :3 </p>
 </div>

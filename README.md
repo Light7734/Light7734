@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills in art/music but I'm more focused on programming right now, you can add me on discord "Light#3039" and chat with me ;3 </p>
+<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills in art/music but I'm more focused on programming right now, you can add me on discord "Light7734#4652" and chat with me ;3 </p>
 
 <p align="center">
 <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Light3039&theme=tokyonight"/>

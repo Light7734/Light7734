@@ -75,13 +75,12 @@ Resources
 
   <p> UnrealEngine -> <a href="https://learn.unrealengine.com/"> learn.unrealengine.com </a><p> 
   
-  <p> Rendering -> Real-time rendering book by Tomas Akenine-möller </p>
+  <p> Rendering -> Real-time rendering by Tomas Akenine-möller </p>
 
   <p> Memory -> <a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf"> What Every Programmer Should Know About Memory by Ulrich Drepper </a> </p>
 
   <p> Linux -> Linux Command Line and Shell Scripting BIBLE by Richard Blum
-  
-  <br/> <p> If you know of a good resouce related to UnrealEngine or willing to help me w/ vc, contact me :3 </p>
+ 
 </div>
 
 <h6 align="center">
@@ -93,5 +92,4 @@ Resources
 </h2>
 <div align="ceenter">
   <p> Discord: Light#3039 </p>
-  <p> Email: I don't check email lol </p>
 </div>

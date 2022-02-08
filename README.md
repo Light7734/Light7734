@@ -5,7 +5,7 @@
 <p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills in art/music but I'm more focused on programming right now, you can add me on discord "Light7734#4652" and chat with me ;3 </p>
 
 <p align="center">
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Light3039&theme=tokyonight"/>
+<img alt="streak" src=https://github-readme-streak-stats.herokuapp.com?user=Light3039&theme=tokyonight&date_format=>
 </p>
 
 <h2 align="center">

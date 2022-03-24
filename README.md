@@ -87,9 +87,3 @@ Resources
   Godspeed!
 </h6>
 
-<h2 align="center">
-  Contact
-</h2>
-<div align="ceenter">
-  <p> Discord: Light#3039 </p>
-</div>

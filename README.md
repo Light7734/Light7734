@@ -34,6 +34,7 @@ Specs
 </h2>
 
 ```
+Name:              Lina
 Case:              CoolerMaster Masterbox K501L ARGB
 Motherboard:       ROG MAXIMUS XII HERO (WI-FI)
 PCU:               ASUS ROG Strix 750G Gold Full Modular
@@ -46,9 +47,10 @@ Display:           ASUS TUF Gaming VG27BQ 144Hz 1ms G-Sync HDR10 27Inch
 Keyboard:          CoolerMaster CK550 V2 w/ TTC Red Mechanical Switches
 Mouse:             Bloody AL90
 Speakers:          Razer Nommo
-Operating System:  Dual boot Windows10/Pop!_OS
+OperatingSystem:   Arch Linux
 
-Laptop:            Lenovo Legion-Y512 w/ Arch Linux
+Name:              Tresdin
+Laptop:            Lenovo Legion-Y512 w/ Gentoo Linux as my home server
 ```
 <h6 align="center">
   Let there be ARGB!

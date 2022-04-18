@@ -27,7 +27,7 @@ Active Projects
 <a href="https://github.com/light3039/.files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=.files&theme=tokyonight" /> </a>
 </div>
 
-<h6 align="center"> ughhh- I'll finish them all, one day...</h6>
+Currently working on: Personal website, UnrealEngine5, VulkanRenderer, Guitar, Pixel-art, Writing.
 
 <h2 align="center">
 Specs

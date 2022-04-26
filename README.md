@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills in art/music but I'm more focused on programming right now, you can add me on discord "Light7734#4652" and chat with me ;3 </p>
+<p align="left"> Hey! thanks for checking me out ^_^, I'm an aspirant game developer and interested in anything creative, have some minor skills in art & music but I'm more focused on programming right now, DMs always open Light7734#4652@Discord </p>
 
 <p align="center">
 <img alt="streak" src=https://github-readme-streak-stats.herokuapp.com?user=Light3039&theme=tokyonight&date_format=>
@@ -27,14 +27,14 @@ Active Projects
 <a href="https://github.com/light3039/.files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=.files&theme=tokyonight" /> </a>
 </div>
 
-Currently working on: Personal website, UE5, vulkan renderer, guitar, pixel-art, writing, and making friends ^^
+Currently working on: Homepage, UE5, VulkanRenderer, Guitar, Pixel-art, and making friends ^^ (seriously dms always open :3)
 
 <h2 align="center">
 Specs
 </h2>
 
 ```
-Name:              Lina
+Name:              Lina (My main computer <3)
 Case:              CoolerMaster Masterbox K501L ARGB
 Motherboard:       ROG MAXIMUS XII HERO (WI-FI)
 PCU:               ASUS ROG Strix 750G Gold Full Modular
@@ -47,10 +47,11 @@ Display:           ASUS TUF Gaming VG27BQ 144Hz 1ms G-Sync HDR10 27Inch
 Keyboard:          CoolerMaster CK550 V2 w/ TTC Red Mechanical Switches
 Mouse:             Bloody AL90
 Speakers:          Razer Nommo
-OperatingSystem:   Arch Linux
+OperatingSystem:   Arch Linux (I use arch btw)
 
-Name:              Tresdin
-Laptop:            Lenovo Legion-Y512 w/ Gentoo Linux as my home server
+Name:              Tresdin (My laptop <3)
+Model:             Lenovo Legion-Y512
+OperatingSystem:   Gentoo Linux
 ```
 <h6 align="center">
   Let there be ARGB!

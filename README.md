@@ -27,7 +27,7 @@ Active Projects
 <a href="https://github.com/light3039/.files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=light3039&repo=.files&theme=tokyonight" /> </a>
 </div>
 
-Currently working on: Homepage, UE5, VulkanRenderer, Guitar, Pixel-art, and making friends ^^ (seriously dms always open :3)
+Currently working on: Homepage, UE5, VulkanRenderer, Guitar, Pixel-art, and finding friends ^^
 
 <h2 align="center">
 Specs
@@ -51,7 +51,7 @@ OperatingSystem:   Arch Linux (I use arch btw)
 
 Name:              Tresdin (My laptop <3)
 Model:             Lenovo Legion-Y512
-OperatingSystem:   Gentoo Linux
+OperatingSystem:   Artix Linux
 ```
 <h6 align="center">
   Let there be ARGB!

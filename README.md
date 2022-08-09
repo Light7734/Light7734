@@ -1,8 +1,15 @@
 <h1 align="center"> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+Hello there 
 </h1>
 
 Probably enjoying a cup of coffee and coding ☕🖥️ or playing videogames 🎮
+
+Timezone: +3:30GMT
+
+```
+if(!sleeping)
+    code();
+```
 
 Find more about me on my [homepage](https://mohammad-hm.com) 
 

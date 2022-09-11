@@ -39,6 +39,9 @@ Chilling and trying to stay productive, HMU anytime if you wish to talk about an
 
 🌐 Find out more about me on my **homepage:** [light7734.com](https://light7734.com)
 
+<a href="https://trello.com/w/7734light">
+  <img src="https://img.shields.io/badge/TRELLO-white?style=for-the-badge&logo=trello&logoColor=e21a41" />
+</a>
 
 
 <h6 align="center">

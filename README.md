@@ -5,6 +5,9 @@
 <br/>
 <br/>
 <br/>
+
+<img src="https://img.shields.io/badge/OPEN SOURCE-white?style=for-the-badge&logo=githubsponsors&logoColor=e21a41" />
+
 <div display="inline">
   <img src="https://img.shields.io/badge/ARTIX-white?style=for-the-badge&logo=artix-linux&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/GENTOO-white?style=for-the-badge&logo=gentoo&logoColor=e21a41" />
@@ -20,6 +23,7 @@
   <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/VULKAN-white?style=for-the-badge&logo=vulkan&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=e21a41" />
+    
 </div>
 
 <div display="inline">

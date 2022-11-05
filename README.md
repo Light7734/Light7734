@@ -48,22 +48,16 @@ Chilling and trying to stay productive, HMU anytime if you wish to talk about an
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=light7734&theme=dracula&border_radius=4&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-<a href="https://twitter.com/light7734">
-  <img src="https://img.shields.io/badge/TWITTER-white?style=for-the-badge&logo=twitter&logoColor=e21a41" />
-</a>
-
-
-
 
 <a href="https://trello.com/w/7734light">
   <img src="https://img.shields.io/badge/HOMEPAGE-white?style=for-the-badge&logo=git&logoColor=e21a41" />
 </a>
-
-  
+<a href="https://twitter.com/light7734">
+  <img src="https://img.shields.io/badge/TWITTER-white?style=for-the-badge&logo=twitter&logoColor=e21a41" />
+</a>
 <a href="https://www.pinterest.com/Light7734_/_saved/">
   <img src="https://img.shields.io/badge/PINTEREST-white?style=for-the-badge&logo=PINTEREST&logoColor=e21a41" />
 </a>
-
 <a href="https://soundcloud.com/user-499649814">
   <img src="https://img.shields.io/badge/SOUNDCLOUD-white?style=for-the-badge&logo=SOUNDCLOUD&logoColor=e21a41" />
 </a>
@@ -73,16 +67,12 @@ Chilling and trying to stay productive, HMU anytime if you wish to talk about an
 <a href="https://www.youtube.com/channel/UCIVFJTiSJsUZYY4XAWQj2jQ">
   <img src="https://img.shields.io/badge/YOUTUBE-white?style=for-the-badge&logo=youtube&logoColor=e21a41" />
 </a>
-
-
-<a href="https://trello.com/w/7734light">
-  <img src="https://img.shields.io/badge/TRELLO-white?style=for-the-badge&logo=trello&logoColor=e21a41" />
-</a>
 <a href="https://discordapp.com/users/928576662352822353">
   <img src="https://img.shields.io/badge/DISCORD-white?style=for-the-badge&logo=DISCORD&logoColor=e21a41" />
 </a>
-
-
+<a href="https://trello.com/w/7734light">
+  <img src="https://img.shields.io/badge/TRELLO-white?style=for-the-badge&logo=trello&logoColor=e21a41" />
+</a>
 
 
 <h6 align="center">

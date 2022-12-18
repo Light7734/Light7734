@@ -10,7 +10,6 @@
 
 <div display="inline">
   <img src="https://img.shields.io/badge/ARTIX-white?style=for-the-badge&logo=artix-linux&logoColor=e21a41" />
-  <img src="https://img.shields.io/badge/GENTOO-white?style=for-the-badge&logo=gentoo&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/DWM-white?style=for-the-badge&logo=dwm&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/NEOVIM-white?style=for-the-badge&logo=neovim&logoColor=e21a41" />
 </div>

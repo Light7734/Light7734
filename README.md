@@ -2,8 +2,8 @@
 <div align="center">
 <img align="center" src="https://github.com/Light7734/Homepage/blob/main/static/icons/light-favicon.svg" />
 
-<br/>
-<br/>
+<br><br/>
+<i>“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis</i>
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN SOURCE-white?style=for-the-badge&logo=githubsponsors&logoColor=e21a41" />
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/DWM-white?style=for-the-badge&logo=dwm&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/NEOVIM-white?style=for-the-badge&logo=neovim&logoColor=e21a41" />
 </div>
-
 
   <div display="inline">
   
@@ -57,4 +56,5 @@
 <h6 align="center">
   Godspeed!
 </h6>
+
 

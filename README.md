@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" src="https://github.com/Light7734/Homepage/blob/main/static/icons/light-favicon.svg" />
+<img align="center" width=144 src="https://github.com/Light7734/Homepage/blob/main/static/icons/user.svg" />
 
 <br><br/>
 <i>“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis</i>

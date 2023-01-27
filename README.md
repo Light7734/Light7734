@@ -28,6 +28,7 @@
 
 <div display="inline">
   <img src="https://img.shields.io/badge/BLENDER-white?style=for-the-badge&logo=blender&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/KRITA-white?style=for-the-badge&logo=krita&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/ASEPRITE-white?style=for-the-badge&logo=aseprite&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/INKSCAPE-white?style=for-the-badge&logo=inkscape&logoColor=e21a41" />
 </div>

@@ -1,8 +1,10 @@
 
 <div align="center">
-<img align="center" width=144 src="https://github.com/Light7734/Homepage/blob/main/static/icons/light-signature.svg" />
+<img align="center" width=25% src="https://github.com/Light7734/Homepage/blob/main/signature.svg" />
 
-<br><br/>
+<br/>
+<br/>
+  
 <i>“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis</i>
 <br/>
 

@@ -5,7 +5,7 @@
 <br/>
 <br/>
   
-<i>“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis</i>
+<i>Carpe Diem</i>
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN SOURCE-white?style=for-the-badge&logo=githubsponsors&logoColor=e21a41" />

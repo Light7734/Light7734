@@ -12,7 +12,7 @@
 
 <div display="inline">
   <img src="https://img.shields.io/badge/ARTIX-white?style=for-the-badge&logo=artix-linux&logoColor=e21a41" />
-  <img src="https://img.shields.io/badge/DWM-white?style=for-the-badge&logo=dwm&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/XMONAD-white?style=for-the-badge&logo=haskell&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/NEOVIM-white?style=for-the-badge&logo=neovim&logoColor=e21a41" />
 </div>
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/RUST-white?style=for-the-badge&logo=rust&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/LUA-white?style=for-the-badge&logo=lua&logoColor=e21a41" />
-  <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/BASH-white?style=for-the-badge&logo=gnu-bash&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/VULKAN-white?style=for-the-badge&logo=vulkan&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=e21a41" />
     

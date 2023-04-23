@@ -42,7 +42,7 @@
 <h1> </h1>
 
 <a href="@light7734:matrix.org">
-  <img src="https://img.shields.io/badge/HOMEPAGE: light7734.com -white?style=for-the-badge&logo=GIT&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/PORTFOLIO: light7734.com -white?style=for-the-badge&logo=GIT&logoColor=e21a41" />
 </a>
 <a href="@light7734:matrix.org">
   <img src="https://img.shields.io/badge/MATRIX: @light7734:matrix.org -white?style=for-the-badge&logo=MATRIX&logoColor=e21a41" />

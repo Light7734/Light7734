@@ -41,12 +41,11 @@
 </div>
 <h1> </h1>
 
-<a href="@light7734:matrix.org">
+<a href="https://light7734.com/">
   <img src="https://img.shields.io/badge/PORTFOLIO: light7734.com -white?style=for-the-badge&logo=GIT&logoColor=e21a41" />
 </a>
-<a href="@light7734:matrix.org">
-  <img src="https://img.shields.io/badge/MATRIX: @light7734:matrix.org -white?style=for-the-badge&logo=MATRIX&logoColor=e21a41" />
-</a>
+<br/>
+
 <a href="https://twitter.com/light7734">
   <img src="https://img.shields.io/badge/TWITTER: @light7734-white?style=for-the-badge&logo=twitter&logoColor=e21a41" />
 </a>
@@ -56,6 +55,11 @@
 <a href="https://soundcloud.com/user-499649814">
   <img src="https://img.shields.io/badge/SOUNDCLOUD-white?style=for-the-badge&logo=SOUNDCLOUD&logoColor=e21a41" />
 </a>
+
+
+<img src="https://img.shields.io/badge/MATRIX: @light7734:matrix.org -white?style=for-the-badge&logo=MATRIX&logoColor=e21a41" />
+
+
 <h6 align="center">
   Godspeed!
 </h6>

@@ -5,7 +5,7 @@
 <br/>
 <br/>
   
-<i>Carpe Diem</i>
+<i>Amor Fati</i>
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN SOURCE-white?style=for-the-badge&logo=githubsponsors&logoColor=e21a41" />

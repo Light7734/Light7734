@@ -1,3 +1,16 @@
+<h2>
+  NOTICE!!! <br>
+I have migrated from Github to a self-hosted instance of Forgejo, you can see my projects on <a href="https://git.light7734.com/light7734"> git.light7734.com </a> <br/><br/>
+My repositories on Github will no longer recieve any updates, thanks for following me, and have fun ^_^
+</h2>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <div align="center">
 <img align="center" width=25% src="https://github.com/Light7734/Homepage/blob/main/signature.svg" />
@@ -44,6 +57,9 @@
 <a href="https://light7734.com/">
   <img src="https://img.shields.io/badge/PORTFOLIO: light7734.com -white?style=for-the-badge&logo=GIT&logoColor=e21a41" />
 </a>
+<a href="https://git.light7734.com/light7734">
+  <img src="https://img.shields.io/badge/PROJECTS: git.light7734.com -white?style=for-the-badge&logo=GIT&logoColor=e21a41" />
+</a>
 <br/>
 
 <a href="https://twitter.com/light7734">
@@ -56,12 +72,8 @@
   <img src="https://img.shields.io/badge/SOUNDCLOUD-white?style=for-the-badge&logo=SOUNDCLOUD&logoColor=e21a41" />
 </a>
 
-
 <img src="https://img.shields.io/badge/MATRIX: @light7734:matrix.org -white?style=for-the-badge&logo=MATRIX&logoColor=e21a41" />
-
 
 <h6 align="center">
   Godspeed!
 </h6>
-
-

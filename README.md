@@ -1,17 +1,3 @@
-<h2>
-  NOTICE!!! <br>
-I have migrated from Github to a self-hosted instance of Forgejo, you can see my projects on <a href="https://git.light7734.com/light7734"> git.light7734.com </a> <br/><br/>
-My repositories on Github will no longer recieve any updates, thanks for following me, and have fun ^_^
-</h2>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 <div align="center">
 <img align="center" width=25% src="https://github.com/Light7734/Homepage/blob/main/signature.svg" />
 

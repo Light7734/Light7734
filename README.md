@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/OPEN SOURCE-white?style=for-the-badge&logo=githubsponsors&logoColor=e21a41" />
 
 <div display="inline">
-  <img src="https://img.shields.io/badge/ARTIX-white?style=for-the-badge&logo=artix-linux&logoColor=e21a41" />
-  <img src="https://img.shields.io/badge/XMONAD-white?style=for-the-badge&logo=haskell&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/ARCH-white?style=for-the-badge&logo=arch-linux&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/GNOME-white?style=for-the-badge&logo=gnome&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/NEOVIM-white?style=for-the-badge&logo=neovim&logoColor=e21a41" />
 </div>
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/LUA-white?style=for-the-badge&logo=lua&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/BASH-white?style=for-the-badge&logo=gnu-bash&logoColor=e21a41" />
   <img src="https://img.shields.io/badge/VULKAN-white?style=for-the-badge&logo=vulkan&logoColor=e21a41" />
-  <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/SVELTE-white?style=for-the-badge&logo=svelte&logoColor=e21a41" />
     
 </div>
 
@@ -48,18 +48,16 @@
 </a>
 <br/>
 
-<a href="https://twitter.com/light7734">
-  <img src="https://img.shields.io/badge/TWITTER: @light7734-white?style=for-the-badge&logo=twitter&logoColor=e21a41" />
+
+<a href="https://x.com/light7734">
+  <img src="https://img.shields.io/badge/@light7734-white?style=for-the-badge&logo=discord&logoColor=e21a41" />
+</a><a href="https://x.com/light7734">
+  <img src="https://img.shields.io/badge/@light7734-white?style=for-the-badge&logo=x&logoColor=e21a41" />
 </a>
 <a href="https://www.youtube.com/channel/UCIVFJTiSJsUZYY4XAWQj2jQ">
-  <img src="https://img.shields.io/badge/YOUTUBE-white?style=for-the-badge&logo=youtube&logoColor=e21a41" />
+  <img src="https://img.shields.io/badge/@the_real_light7734-white?style=for-the-badge&logo=youtube&logoColor=e21a41" />
 </a>
-<a href="https://soundcloud.com/user-499649814">
-  <img src="https://img.shields.io/badge/SOUNDCLOUD-white?style=for-the-badge&logo=SOUNDCLOUD&logoColor=e21a41" />
-</a>
-
-<img src="https://img.shields.io/badge/MATRIX: @light7734:matrix.org -white?style=for-the-badge&logo=MATRIX&logoColor=e21a41" />
 
 <h6 align="center">
-  Godspeed!
+  “Is a thing difficult? Turn your thoughts not to its difficulty, but to your own strength to meet it.” — Meditations 10.31
 </h6>

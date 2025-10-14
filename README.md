@@ -12,6 +12,7 @@
 <div display="inline">
 	<img src="https://img.shields.io/badge/ARCH-white?style=for-the-badge&logo=arch-linux&logoColor=e21a41" />
 	<img src="https://img.shields.io/badge/GNOME-white?style=for-the-badge&logo=gnome&logoColor=e21a41" />
+	<img src="https://img.shields.io/badge/XMONAD-white?style=for-the-badge&logo=haskell&logoColor=e21a41" />
 	<img src="https://img.shields.io/badge/NEOVIM-white?style=for-the-badge&logo=neovim&logoColor=e21a41" />
 </div>
 

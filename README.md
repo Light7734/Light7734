@@ -19,7 +19,6 @@
 <div display="inline">
 	<img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=e21a41" />
 	<img src="https://img.shields.io/badge/RUST-white?style=for-the-badge&logo=rust&logoColor=e21a41" />
-	<img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=e21a41" />
 	<img src="https://img.shields.io/badge/LUA-white?style=for-the-badge&logo=lua&logoColor=e21a41" />
 	<img src="https://img.shields.io/badge/BASH-white?style=for-the-badge&logo=gnu-bash&logoColor=e21a41" />
 	<img src="https://img.shields.io/badge/VULKAN-white?style=for-the-badge&logo=vulkan&logoColor=e21a41" />

@@ -25,16 +25,6 @@
 	<img src="https://img.shields.io/badge/SVELTE-white?style=for-the-badge&logo=svelte&logoColor=e21a41" />
 </div>
 
-<div display="inline">
-	<img src="https://img.shields.io/badge/BLENDER-white?style=for-the-badge&logo=blender&logoColor=e21a41" />
-	<img src="https://img.shields.io/badge/KRITA-white?style=for-the-badge&logo=krita&logoColor=e21a41" />
-	<img src="https://img.shields.io/badge/ASEPRITE-white?style=for-the-badge&logo=aseprite&logoColor=e21a41" />
-	<img src="https://img.shields.io/badge/INKSCAPE-white?style=for-the-badge&logo=inkscape&logoColor=e21a41" />
-</div>
-
-<div display="inline">
-	<img src="https://img.shields.io/badge/LMMS-white?style=for-the-badge&logo=lmms&logoColor=e21a41" />
-</div>
 </div>
 <h1></h1>
 
@@ -57,6 +47,8 @@
 	<a href="https://git.light7734.com/light7734"><img src="https://img.shields.io/badge/PROJECTS: git.light7734.com -white?style=for-the-badge&logo=GIT&logoColor=e21a41" /></a>
 </div>
 
+ 
 <h6 align="center">
-	“Is a thing difficult? Turn your thoughts not to its difficulty, but to your own strength to meet it.” — Meditations 10.31
+“Is a thing difficult? Turn your thoughts not to its difficulty, but to your own strength to meet it.” — Meditations 10.31
 </h6>
+</div>
